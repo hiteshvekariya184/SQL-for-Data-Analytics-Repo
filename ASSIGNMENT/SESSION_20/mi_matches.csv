@@ -1,0 +1,11 @@
+match_id,season,match_date,city,team1,team2,toss_winner,toss_decision,winner,player_of_match,venue
+3,2025,2025-03-23,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,Ruturaj Gaikwad,MA Chidambaram Stadium
+9,2025,2025-03-29,Ahmedabad,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,Sai Sudharsan,Narendra Modi Stadium
+11,2025,2025-03-31,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,Ashwani Kumar,Wankhede Stadium
+13,2025,2025-04-04,Lucknow,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,bat,Mumbai Indians,Hardik Pandya,Ekana Stadium
+14,2025,2025-04-07,Mumbai,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Virat Kohli,Wankhede Stadium
+16,2025,2025-04-13,Jaipur,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Rohit Sharma,Sawai Mansingh Stadium
+18,2025,2025-04-20,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,Suryakumar Yadav,Wankhede Stadium
+20,2025,2025-04-27,Mumbai,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,Jasprit Bumrah,Wankhede Stadium
+22,2025,2025-05-06,Mumbai,Mumbai Indians,Gujarat Titans,Mumbai Indians,bat,Mumbai Indians,Ryan Rickelton,Wankhede Stadium
+23,2025,2025-05-11,Dharamsala,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,Arshdeep Singh,HPCA Stadium
